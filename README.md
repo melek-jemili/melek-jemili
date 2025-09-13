@@ -52,7 +52,7 @@ I'm currently pursuing my studies at **École Nationale d'Ingénieurs de Tunis (
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melek-jemili&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melek-jemilie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melek-jemili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
