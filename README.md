@@ -44,18 +44,6 @@ I'm currently pursuing my studies at **École Nationale d'Ingénieurs de Tunis (
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melek-jemili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melek-jemili&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melek-jemili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
 
 ## 📈 Contribution Activity
 
